@@ -6,7 +6,7 @@ body {
 }
 
 .App {
-  max-width: 900px; /* Increase the maximum width of the container */
+  max-width: 900px; 
   margin: 20px auto;
   padding: 20px;
   background-color: #fff;
@@ -51,7 +51,7 @@ td input {
 
 button {
   cursor: pointer;
-  padding: 10px 16px; /* Adjust padding for buttons */
+  padding: 10px 16px; 
   font-size: 14px;
   margin-right: 8px;
   border: none;
